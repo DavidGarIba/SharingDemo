@@ -1,7 +1,7 @@
 {
-  "name": "Shortcuts Test",
-  "short_name": "Shortcuts Test",
-  "start_url": "https://dev.localhost/",
+  "name": "Sharing Test",
+  "short_name": "Sharing Test",
+  "start_url": "https://davidgariba.github.io/SharingDemo/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#aac8d4",
